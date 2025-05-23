@@ -16,6 +16,7 @@ public:
 	}
 };
 
+
 int main() {
 	// int, float, double のすべての組み合わせ (3+3c2=6のパターン)
 	Minimum<int, float> numbers1(3, 4.5f);
